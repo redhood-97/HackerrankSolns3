@@ -1,5 +1,5 @@
 
-public class Solution {
+
 
     static int superDigit(String n, int k) {
         
@@ -17,7 +17,7 @@ public class Solution {
         else
             return temp_sum;    
     }
-}
+
 
     // Solution to Algorithms ---> Recursive Digit Sum
     // Doesn't work for 3 specific test-cases(7, 8 and 9) which supposedly have larger inputs
