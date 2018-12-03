@@ -29,4 +29,5 @@ static int stepPerms(int n) {
         }
 
         return arr[arr.length - 1];
+        
     }
